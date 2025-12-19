@@ -17,9 +17,9 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-### 📊 Dashboard
+###  Dashboard
 - **Real-time Portfolio Overview** - Track your investments at a glance
 - **Interactive Charts** - Area charts with gradient fills using Recharts
 - **Market Sentiment Indicator** - Bullish/Bearish sentiment analysis
@@ -27,14 +27,14 @@
 - **Top Gainers/Losers** - Quick view of market movers
 - **Smart Alerts** - Price alerts, sector concentration warnings
 
-### 📈 Markets
+###  Markets
 - **Live Stock Data** - Real-time prices and percentage changes
 - **Smart Market Signals** - Near 52W High, High Volatility, Below 20 DMA, Strong Momentum
 - **Sector Filtering** - Filter by IT, Banking, Pharma, Energy, Auto
 - **Sort & Filter** - Sort by % Change, Price, Volume | Filter: Gainers, Losers, Volatile
 - **Quick Actions** - One-click Buy, Sell, Add to Watchlist
 
-### 💼 Portfolio
+###  Portfolio
 - **Holdings Table** - Complete breakdown with all metrics:
   - Stock Name, Quantity, Avg Price, Current Price
   - Invested Value, Current Value, P&L (₹ + %)
@@ -43,31 +43,31 @@
 - **Realized P&L** - Profit from stocks you already sold
 - **Sector Allocation** - Interactive pie chart visualization
 
-### 📋 Orders
+###  Orders
 - **Complete Order History** - All executed and pending orders
 - **Order Details** - Order ID, Exchange (NSE/BSE), Timestamps, Brokerage
 - **Status Tracking** - 🟢 Completed, 🟡 Pending, 🔴 Cancelled
 - **Cancel Orders** - Cancel pending orders with one click
 
-### 👁️ Watchlist
+###  Watchlist
 - **Live Prices** - Real-time price updates
 - **Quick Actions** - Buy, Sell, Remove buttons
 - **Smart Empty State** - CTA to explore Markets
 
-### 📰 News
+###  News
 - **Market Headlines** - Global + India market news
 - **Category Filters** - Markets, Economy, Company News
 - **Stock-Specific News** - Filter news by stock symbol
 - **Sentiment Tags** - 🟢 Positive, 🔴 Negative, ⚪ Neutral
 
-### ⚙️ Settings
+###  Settings
 - **Profile Editing** - Inline edit name and email
 - **Theme Toggle** - Dark/Light mode support
 - **Notification Preferences** - Email, Push, Market Alerts, Price Alerts
 - **Security** - Two-Factor Authentication, Login History
 - **Keyboard Shortcuts** - Quick navigation reference
 
-### 🔐 Authentication
+###  Authentication
 - **JWT Authentication** - Secure token-based auth
 - **Protected Routes** - Route guards for authenticated access
 - **Session Management** - Auto-logout on session timeout
@@ -75,7 +75,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 | Technology | Purpose |
@@ -98,15 +98,15 @@
 | **bcrypt** | Password hashing |
 
 ### UI/UX
-- 🎨 **Glassmorphism Design** - Frosted glass effects
-- ✨ **Gradient Overlays** - Premium color transitions
-- 🌟 **Glow Effects** - Ambient lighting on interactive elements
-- 📱 **Responsive Design** - Mobile-first approach
-- 🎭 **Micro-animations** - Smooth hover and transition effects
+-  **Glassmorphism Design** - Frosted glass effects
+-  **Gradient Overlays** - Premium color transitions
+-  **Glow Effects** - Ambient lighting on interactive elements
+-  **Responsive Design** - Mobile-first approach
+-  **Micro-animations** - Smooth hover and transition effects
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Node.js 18.x or higher
@@ -145,7 +145,7 @@ JWT_EXPIRE=7d
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 TradeNova/
@@ -202,7 +202,7 @@ TradeNova/
 
 ---
 
-## 🎯 Key Highlights
+##  Key Highlights
 
 ### Premium UI Design
 - **Glassmorphism Cards** - Frosted glass effect with backdrop blur
@@ -226,6 +226,6 @@ TradeNova/
 
 <div align="center">
 
-*Built with ❤️ by Harshita Gupta*
+*Built by Harshita Gupta*
 
 </div>
